@@ -4,7 +4,7 @@
 
 ### Introduction
 
-In this work, we mainly propose a method of adding matching points in the refinement matching stage. It is very effective in improving matching accuracy.
+In this work, we mainly propose a method of adding matching points in the refinement matching stage. It is very effective in improving matching accuracy, while only increasing the computational complexity slightly.
 
 ### Installation
 
