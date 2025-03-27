@@ -16,7 +16,7 @@ cfg['add_matches'] = 0
 cfg['iter_optimize'] = False
 cfg['rplus'] = 1
 
-cfg['weight_path'] = '/data2/ML/ImageMatcher/weights/20240326_megadepth_d7_refine_steps_v11_v2_832-9_multiscale/model_28_0.2728.pth'
+cfg['weight_path'] = 'path-to-weight'
 
 model_config = {
     'dim_conv_stem' : 64,
