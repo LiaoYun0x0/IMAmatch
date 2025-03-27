@@ -21,7 +21,7 @@ cfg['iter_optimize'] = True
 cfg['rplus'] = 1
 cfg['use_ba'] = False       # If use the weight of bundle adjustment, the method will be slow.
 
-cfg['weight_path'] = '/data2/ML/ImageMatcher/weights/20240326_megadepth_d7_refine_steps_v11_v2_832-9_multiscale/model_28_0.2728.pth'
+cfg['weight_path'] = 'path-to-weight'
 
 
 if cfg['use_ba']:
