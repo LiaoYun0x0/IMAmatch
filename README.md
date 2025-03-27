@@ -44,16 +44,8 @@ Then set your megadepth_root_dir and scannet_root_dir in configs/data_config.py
 
 For both train and evaluation, you can just excute the corresponding scripts. To set the parameters, just modity the cfg dict inner the script. 
 
-
-
-```
-@inproceedings{IMAMatch,
-  title={Semi-dense Feature matching with Increased Matching Amount},
-  author={Wang, Qing and Zhang, Jiaming and Yang, Kailun and Peng, Kunyu and Stiefelhagen, Rainer},
-  booktitle={Asian Conference on Computer Vision},
-  year={2022}
-}
-```
+### demo pair
+![demo.jpg](demo/output.jpg)
 
 ### Acknowledgments
 
