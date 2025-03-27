@@ -22,7 +22,7 @@ cfg['rplus'] = 1.5           # 1 for megadepth, 1.5 for scannet
 cfg['use_ba'] = True       # # If use the weight of bundle adjustment, the method will be slow.
 # scannet use (w=640, h=480) for train and test
 
-cfg['weight_path'] = '/data2/ML/ImageMatcher/weights/20240423_scannet_d9_multiscaleblock/model_29_0.7987.pth'
+cfg['weight_path'] = 'path-to-weight'
 
 
 if cfg['use_ba']:
