@@ -3,3 +3,6 @@ pytorch3d==0.7.6
 opencv-python
 numpy
 einops
+math
+kornia
+tqdm
