@@ -3,7 +3,7 @@
 ### Semi-dense Feature matching with Increased Matching Amount
 Yide Di1†, Yun Liao2†, Yunan Liu3*, Hao Zhou4, Kaijun Zhu4, Mingyu Lu1*, Qing Duan2 and Junhui Liu2
 ### News
-- [04/2025] We are currently submitting this paper to **ACCV2022**.
+- [04/2025] We are currently submitting this paper to **The Visual Computer**.
 ### Introduction
 
 In this work, we mainly propose a method of adding matching points in the refinement matching stage. It is very effective in improving matching accuracy, while only increasing the computational complexity slightly.
