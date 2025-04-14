@@ -4,6 +4,10 @@
 ### Semi-dense Feature matching with Increased Matching Amount
 Yide Di†, Yun Liao†, Yunan Liu*, Kaijun Zhu, Mingyu Lu*, Qing Duan and Junhui Liu
 
+### News
+- [04/2025] We are currently submitting this paper to **The Visual Computer**.
+- 该论文目前正投稿至 **The Visual Computer**.
+
 ### Introduction
 
 This is a novel approach that selectively enhances match density in critical image regions, substantially improving matching accuracy. By employing a multi-scale focused linear attention mechanism, IMAmatch effectively captures richer feature representations, and densifies correspondences specifically in key areas. Matches are further refined through a consistency verification between regression and classification outputs. Additionally, the method incorporates a differentiable bundle adjustment-based strategy to optimize relative pose estimation. Comprehensive evaluations across multiple datasets indicate that IMAmatch achieves comparable accuracy to state-of-the-art dense matching methods, while offering significantly faster inference speed and lower memory consumption.
@@ -12,12 +16,8 @@ This is a novel approach that selectively enhances match density in critical ima
 
 <div align="center">
 <img src="assets/description.png" alt="desc1.png" width="50%">
-<img src="assets/desc2.png" alt="desc2.png" width="50%">
+<img src="assets/desc2.png" alt="desc2.png" width="80%">
 </div>
-
-### News
-- [04/2025] We are currently submitting this paper to **The Visual Computer**.
-- 该论文目前正投稿至 **The Visual Computer**.
 
 ### Installation
 
