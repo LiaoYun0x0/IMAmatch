@@ -15,6 +15,7 @@ This is a novel approach that selectively enhances match density in critical ima
 
 ### News
 - [04/2025] We are currently submitting this paper to **The Visual Computer**.
+- 该论文目前正投稿至 **The Visual Computer**.
 
 ### Installation
 
