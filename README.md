@@ -2,7 +2,7 @@
 # IMAMatch
 
 ### Semi-dense Feature matching with Increased Matching Amount
-Yide Di†, Yun Liao†, Yunan Liu*, Hao Zhou, Kaijun Zhu, Mingyu Lu*, Qing Duan and Junhui Liu
+Yide Di†, Yun Liao†, Yunan Liu*, Kaijun Zhu, Mingyu Lu*, Qing Duan and Junhui Liu
 
 ### Introduction
 
