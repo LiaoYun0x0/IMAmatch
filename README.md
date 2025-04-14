@@ -1,3 +1,4 @@
+
 # IMAMatch
 
 ### Semi-dense Feature matching with Increased Matching Amount
@@ -10,7 +11,8 @@ This is a novel approach that selectively enhances match density in critical ima
 局部图像特征匹配是低层视觉中的一项基础任务，近年来得到了广泛研究。然而，半稠密方法在粗匹配阶段常常面临匹配数量不足的问题，而稠密方法虽然覆盖更全面，但需要大量计算资源，且效率较低。为了解决这些局限性，我们提出了IMAmatch（Increased Matching Amount Semi-Dense Matching），一种新颖的匹配方法，通过在关键图像区域有选择性地增加匹配数量，显著提升匹配精度。IMAmatch通过多尺度聚焦线性注意力机制提升特征提取效果，并通过在关键区域增加匹配点密度来提高匹配准确性。随后，结合回归与分类输出之间的一致性检查对匹配结果进行进一步优化。最后，IMAmatch采用基于束调整的可微分相对位姿估计策略进行整体优化。大量在多个数据集上的实验证明，IMAmatch在保持高内存效率和较快推理速度的同时，达到了可与稠密匹配方法媲美的性能水平。
 
 <div align="center">
-<img src="assets/description.png" alt="示例图片" width="50%">
+<img src="assets/description.png" alt="desc1.png" width="50%">
+<img src="assets/desc2.png" alt="desc2.png" width="50%">
 </div>
 
 ### News
